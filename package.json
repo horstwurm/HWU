@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "screenshots": "bash scripts/screenshots.sh",
+    "git-stats": "node scripts/git-stats.mjs"
   },
   "dependencies": {
     "next": "16.4.6",
