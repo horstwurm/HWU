@@ -43,7 +43,7 @@ const advantages = [
   },
   {
     title: "AI inside the product, too",
-    text: "nexusAd drafts ad content and illustrations, and nexusPPM answers portfolio questions in a chat, both through the Claude API with usage limits and role-based access.",
+    text: "nexusAd drafts ad content and illustrations; nexusPPM and nexus EAM answer questions about portfolio and IT landscape in a chat. All through the Claude API, with usage limits and role-based access.",
   },
 ];
 

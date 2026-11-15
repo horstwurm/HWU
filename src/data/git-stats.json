@@ -2,16 +2,16 @@
   "generatedAt": "2026-11-15",
   "projects": {
     "EAM": {
-      "commits": 11,
-      "claudeCommits": 11,
+      "commits": 12,
+      "claudeCommits": 12,
       "firstCommit": "2026-11-12",
       "firstClaudeCommit": "2026-11-12",
       "lastCommit": "2026-11-15",
       "activeDays": 4,
-      "lastSubject": "Count the changes on the homepage",
-      "lastHash": "ca40796",
+      "lastSubject": "Add an AI assistant with read-only skills and an admin page",
+      "lastHash": "cd3e514",
       "branch": "main",
-      "codeLines": 14159,
+      "codeLines": 15578,
       "testFiles": 0
     },
     "nexusAd": {

@@ -37,9 +37,18 @@ export const projects: Project[] = [
       "Tailwind CSS",
       "MongoDB Atlas",
       "Mongoose",
+      "Claude API",
       "React Flow",
       "Zod",
       "Word/PowerPoint export",
+    ],
+    ai: [
+      {
+        name: "AI Assistant",
+        model: "Claude Sonnet 5.5",
+        description:
+          "Chat panel that answers questions about the IT landscape with read-only skills: impact analysis, dependencies, costs, changes and data quality.",
+      },
     ],
     deployments: [{ url: "https://nexus-eam.vercel.app" }],
     host: "Vercel",
