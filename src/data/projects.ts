@@ -139,4 +139,25 @@ export const projects: Project[] = [
     host: "Vercel",
     repo: "https://github.com/horstwurm/roadmap-management",
   },
+  {
+    name: "IOTeasy",
+    folder: "iot",
+    image: "/screenshots/iot.png",
+    description:
+      "Pick an ESP32 sensor or actuator from a catalog, get generated Arduino code, connect the device and watch its values on dashboards, with e-mail alerts.",
+    stack: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "MongoDB",
+      "Chart.js",
+      "Zod",
+      "ESP32 / Arduino code generation",
+      "Vitest",
+      "Resend e-mail",
+    ],
+    deployments: [{ url: "https://nexus-iot-neon.vercel.app" }],
+    host: "Vercel",
+    repo: "https://github.com/horstwurm/ioteasy",
+  },
 ];

@@ -20,5 +20,6 @@ shoot nexus-eam   https://nexus-eam.vercel.app
 shoot nexus-ad    https://nexus-ad.vercel.app
 shoot tennis      https://tennis-counter-six.vercel.app
 shoot nexus-ppm   https://myapp-ochre-nu.vercel.app
+shoot iot         https://nexus-iot-neon.vercel.app
 
 ls -l "$OUT"

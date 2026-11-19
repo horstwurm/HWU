@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-15",
+  "generatedAt": "2026-11-19",
   "projects": {
     "EAM": {
-      "commits": 12,
-      "claudeCommits": 12,
+      "commits": 16,
+      "claudeCommits": 16,
       "firstCommit": "2026-11-12",
       "firstClaudeCommit": "2026-11-12",
-      "lastCommit": "2026-11-15",
-      "activeDays": 4,
-      "lastSubject": "Add an AI assistant with read-only skills and an admin page",
-      "lastHash": "cd3e514",
+      "lastCommit": "2026-11-17",
+      "activeDays": 6,
+      "lastSubject": "Show myEAM on the start page; update homepage, deck and docs",
+      "lastHash": "5a825c0",
       "branch": "main",
-      "codeLines": 15578,
+      "codeLines": 16415,
       "testFiles": 0
     },
     "nexusAd": {
@@ -41,17 +41,30 @@
       "testFiles": 7
     },
     "myapp": {
-      "commits": 110,
-      "claudeCommits": 79,
+      "commits": 112,
+      "claudeCommits": 81,
       "firstCommit": "2024-04-06",
       "firstClaudeCommit": "2026-08-26",
-      "lastCommit": "2026-10-13",
-      "activeDays": 36,
-      "lastSubject": "Role-based scope for the KI-Assistent; boolean Admin parameters",
-      "lastHash": "988a127",
+      "lastCommit": "2026-11-18",
+      "activeDays": 37,
+      "lastSubject": "Controlling: Übersicht as start view, Projektstatus column",
+      "lastHash": "5a7db5e",
       "branch": "main",
-      "codeLines": 77716,
+      "codeLines": 78230,
       "testFiles": 0
+    },
+    "iot": {
+      "commits": 2,
+      "claudeCommits": 2,
+      "firstCommit": "2026-11-19",
+      "firstClaudeCommit": "2026-11-19",
+      "lastCommit": "2026-11-19",
+      "activeDays": 1,
+      "lastSubject": "Refuse login and registration clearly when SESSION_SECRET is missing",
+      "lastHash": "1b635c2",
+      "branch": "main",
+      "codeLines": 5710,
+      "testFiles": 2
     }
   }
 }
