@@ -160,4 +160,25 @@ export const projects: Project[] = [
     host: "Vercel",
     repo: "https://github.com/horstwurm/ioteasy",
   },
+  {
+    name: "nexusMAUT",
+    folder: "nexusMAUT",
+    image: "/screenshots/nexus-maut.png",
+    description:
+      "Marketing automation for the nexus apps: customers with products and transactions, rule-based segments, customer journeys with content placeholders, and HTTP services.",
+    stack: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "MongoDB Atlas",
+      "OpenID Connect (nexusIdentity)",
+      "Zod",
+      "Vitest",
+      "GitHub Actions CI",
+      "Brevo e-mail",
+    ],
+    deployments: [{ url: "https://nexus-maut.vercel.app" }],
+    host: "Vercel",
+    repo: "https://github.com/horstwurm/nexusMAUT",
+  },
 ];

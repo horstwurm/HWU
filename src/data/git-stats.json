@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19",
+  "generatedAt": "2026-11-22",
   "projects": {
     "EAM": {
       "commits": 16,
@@ -54,17 +54,30 @@
       "testFiles": 0
     },
     "iot": {
-      "commits": 2,
-      "claudeCommits": 2,
+      "commits": 3,
+      "claudeCommits": 3,
       "firstCommit": "2026-11-19",
       "firstClaudeCommit": "2026-11-19",
       "lastCommit": "2026-11-19",
       "activeDays": 1,
-      "lastSubject": "Refuse login and registration clearly when SESSION_SECRET is missing",
-      "lastHash": "1b635c2",
+      "lastSubject": "Show the curl command for a widget on the dashboard",
+      "lastHash": "c6690fc",
       "branch": "main",
-      "codeLines": 5710,
+      "codeLines": 5824,
       "testFiles": 2
+    },
+    "nexusMAUT": {
+      "commits": 4,
+      "claudeCommits": 4,
+      "firstCommit": "2026-11-21",
+      "firstClaudeCommit": "2026-11-21",
+      "lastCommit": "2026-11-22",
+      "activeDays": 2,
+      "lastSubject": "Default to the own login when no login mode is saved",
+      "lastHash": "589b3f8",
+      "branch": "main",
+      "codeLines": 14658,
+      "testFiles": 9
     }
   }
 }
